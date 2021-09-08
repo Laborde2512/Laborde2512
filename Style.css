@@ -1,0 +1,51 @@
+body {background-color: white;}
+
+body {
+	background: rgb(230, 230, 230);
+	color: rgb(50, 50, 50);
+	font-family: Times New Roman;
+	font-size: 17px;}
+
+h1 {
+	color: orangered;
+	font-family: Times New Roman;
+	font-size: 40px;}
+
+h2 {
+	color: black;
+	font-family: Times New Roman;
+	font-size: 25px;}
+
+h3 {
+	color: black;
+	font-family: Times New Roman;
+	font-size: 15px;}
+
+P {
+	color: black;
+	font-family: Times New Roman;
+	font-size: 15px;}
+
+a { 
+	color: black;
+	font-size: Times New Roman;
+	font-size: 15px;}
+
+img {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 850px;}
+
+.container {
+	width: 1080px;
+	margin-top: 40px;
+	margin-left: 80px;
+	margin-right: 80px;}
+
+.card-white {
+	background-color: whitesmoke;
+	border: 2px solid black;
+	padding: 40px;
+	margin: 30px 0;
+	border-radius: 4px;
+	box-shadow: 20px 20px 20px darkgrey;}
